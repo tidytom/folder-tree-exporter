@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+# Output the program writes
+*_folders.xlsx
+*_folders.csv
+*.scan_log*.txt
