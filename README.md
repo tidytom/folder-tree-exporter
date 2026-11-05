@@ -2,8 +2,6 @@
 
 A small Windows tool that lists every folder and subfolder inside a folder you pick (Dropbox, OneDrive or a local drive) and saves the list as an Excel or CSV file, for anyone who needs an overview of a large folder structure.
 
-> Screenshot: add `docs/screenshot.png` (placeholder line — leave it exactly like this for GUI apps)
-
 ## What it does
 - Scans a folder and all of its subfolders, at any depth.
 - Saves one row per folder, with the parent folders in the columns `Level1`, `Level2`, and so on.
